@@ -2,11 +2,11 @@
 
 - .gitignore
 - git init
-- git add
-- git commit
+- git add .
+- git commit -m
 - git status
 - git log
-- git config
+- git config -l
 - git remote
 - git push
 - git puul
